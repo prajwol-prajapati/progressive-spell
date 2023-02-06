@@ -7,7 +7,7 @@
 ## Install packages
 
 ```
-yarn install
+yarn
 ```
 
 ## Scripts
